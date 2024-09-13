@@ -67,16 +67,12 @@ The dataset is split into 50,000 training images and 10,000 test images.
 
 Contributions to improve or extend this project are welcome. If you have suggestions or would like to add new features, please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
 For any inquiries or feedback, please contact:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)
+- **Email**: [ena.ateibuz@gmail.com](ena.ateibuz@gmail.com)
+- **LinkedIn**: [ana-zubieta](www.linkedin.com/in/ana-zubieta)
 
 Thank you for exploring this project. Happy coding!
 
