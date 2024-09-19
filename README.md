@@ -50,22 +50,7 @@ The dataset is split into 50,000 training images and 10,000 test images.
 
 5. **GPU Acceleration (Optional)**:
    - If a CUDA-compatible GPU is available, configure TensorFlow to use GPU resources, which can significantly reduce training time.
-
-## Getting Started
-
-1. **Install Dependencies**: Ensure you have Python and necessary libraries installed, including TensorFlow and Keras.
-
-2. **Setup and Configuration**:
-   - Clone the repository.
-   - Install any additional dependencies listed in the requirements file.
-
-3. **Run the Project**:
-   - Execute the provided scripts to train and evaluate the CNN model.
-   - (Optional) Utilize GPU acceleration if available for faster training.
-
-## Contributing
-
-Contributions to improve or extend this project are welcome. If you have suggestions or would like to add new features, please fork the repository and submit a pull request.
+   - If else a AMD-compatible GPU is available, configure Keras to use Plaidml backend with Opencl to aply GPU acceleration. Look this link: [Maximiza el potencial de tu entrenamiento de modelos con GPU Acceleration](https://www.linkedin.com/pulse/maximiza-el-potencial-de-tu-entrenamiento-modelos-con-zubieta-pe%C3%B1a-k2m1c/)
 
 ## Contact
 
